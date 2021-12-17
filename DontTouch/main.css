@@ -86,7 +86,7 @@ button:hover{
     background-color: aquamarine;
     transition-duration: 0.5s;
 }
-.btn-2{
+.btn_2{
     position: absolute;
     top: 385px;
     left: 710px;
@@ -100,13 +100,13 @@ button:hover{
     border-radius: 20px;
     background: rgb(245, 238, 236);
 }
-.btn-2:hover{
+.btn_2:hover{
     cursor: pointer;
     transform: scale(1.1);
     background-color: aquamarine;
     transition-duration: 0.5s;
 }
-.btn-3{
+.btn_3{
     position: absolute;
     top: 345px;
     left: 710px;
@@ -120,7 +120,7 @@ button:hover{
     border-radius: 20px;
     background: rgb(245, 238, 236);
 }
-.btn-3:hover{
+.btn_3:hover{
     cursor: pointer;
     transform: scale(1.1);
     background-color: aquamarine;
@@ -133,6 +133,7 @@ table{
     margin-top: 10px;
     padding-left: 15px;
     width: 620px;   
+    height: 400px;
     background: rgb(245, 238, 236);
 }
 td{
